@@ -133,3 +133,7 @@ Você pode executar o notebook pelo **VS Code**, Jupyter Notebook ou Google Cola
 
 Projeto desenvolvido como parte dos estudos na **DIO**.
 ## Ministrado pela Drª Isadora Ferrão.
+
+## Extensão do projeto : Detecção de Anomalias Temporal nas Transações
+
+Objetivo: ampliar por meio de análise explanatória da variável `Time`, investigando a relação entre o momento da transação, o valor (`Amount`) e sua classificação (`Class`).
