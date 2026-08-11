@@ -132,3 +132,4 @@ Você pode executar o notebook pelo **VS Code**, Jupyter Notebook ou Google Cola
 **Jacomo Silvestre Domingos**
 
 Projeto desenvolvido como parte dos estudos na **DIO**.
+## Ministrado pela Drª Isadora Ferrão.
